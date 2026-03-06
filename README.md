@@ -1,10 +1,5 @@
 # 💳 Credit Card Fraud Detection using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-red)
-![Status](https://img.shields.io/badge/Project-Completed-success)
-
 An **end-to-end Machine Learning project** that detects fraudulent credit card transactions using classification algorithms and techniques for handling highly **imbalanced datasets** such as **SMOTE**.
 
 This project demonstrates the full ML workflow from **Exploratory Data Analysis (EDA)** to **model training, evaluation, and comparison**.
@@ -263,4 +258,3 @@ This project is for **educational and research purposes only**.
 
 The dataset is publicly available on Kaggle under the
 **Open Database License (ODbL)**.
-
